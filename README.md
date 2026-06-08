@@ -29,8 +29,8 @@ As configurações de conexão padrão estão em `src/main/resources/application
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/minibanco
-    username: root
-    password: '3005'
+    username: seu_usuario
+    password: sua_senha
 ```
 *Caso sua senha ou usuário do MySQL sejam diferentes, ajuste esses campos no arquivo.*
 
