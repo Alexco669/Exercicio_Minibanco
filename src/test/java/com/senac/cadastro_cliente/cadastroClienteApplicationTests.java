@@ -1,10 +1,10 @@
-package com.senac.mini_banco;
+package com.senac.cadastro_cliente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MiniBancoApplicationTests {
+class cadastroClienteApplicationTests {
 
 	@Test
 	void contextLoads() {
